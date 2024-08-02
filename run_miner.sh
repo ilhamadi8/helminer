@@ -4,4 +4,4 @@
 # Example SSL URL
 # ./hellminer -c stratum+ssl://na.luckpool.net:3958 -u ADDRESS.WORKER -p x --cpu 1
 
-./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RByQMmvQRRYEPPW3pXBAqyDj1BGhk1gaPK.Rig001 -p x
+./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RByQMmvQRRYEPPW3pXBAqyDj1BGhk1gaPK.Rig001 -p x --cpu 0
